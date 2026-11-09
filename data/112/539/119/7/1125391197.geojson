@@ -52,7 +52,7 @@
     },
     "wof:country":"CH",
     "wof:created":1497048720,
-    "wof:geomhash":"8135f9266a4003b19fb9d218fe63d1f2",
+    "wof:geomhash":"89748a1dc9a6cc0d8cd8dbf2a33cb6e2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     9.0636555,
     46.77092
 ],
-  "geometry": {"coordinates":[9.0636555,46.77092],"type":"Point"}
+  "geometry": {"coordinates":[9.063656,46.77092],"type":"Point"}
 }

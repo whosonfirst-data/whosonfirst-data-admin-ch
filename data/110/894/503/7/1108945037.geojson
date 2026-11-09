@@ -41,7 +41,7 @@
     "wof:concordances":{},
     "wof:country":"CH",
     "wof:created":1491364773,
-    "wof:geomhash":"c9486fdef33814563b1d3267fa382480",
+    "wof:geomhash":"2937e32e463cbf440a38714157223457",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -69,5 +69,5 @@
     6.13742726237247,
     46.20283923093202
 ],
-  "geometry": {"coordinates":[6.13742726237247,46.20283923093202],"type":"Point"}
+  "geometry": {"coordinates":[6.137427,46.202839],"type":"Point"}
 }

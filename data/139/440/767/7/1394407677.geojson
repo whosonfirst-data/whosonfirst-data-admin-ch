@@ -47,7 +47,7 @@
         "gn:id":11113702
     },
     "wof:country":"CH",
-    "wof:geomhash":"5ff62aa338782a5b51cd424864a4042a",
+    "wof:geomhash":"0975897cc04c471e3750f613ea29fca8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -77,5 +77,5 @@
     8.98914,
     46.07559000000001
 ],
-  "geometry": {"coordinates":[8.98914,46.07559000000001],"type":"Point"}
+  "geometry": {"coordinates":[8.98914,46.07559],"type":"Point"}
 }

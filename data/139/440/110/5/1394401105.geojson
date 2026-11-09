@@ -51,7 +51,7 @@
         "wk:page":"Seraplana"
     },
     "wof:country":"CH",
-    "wof:geomhash":"92c39aa24eab972362574b14bfce1d57",
+    "wof:geomhash":"74d2f6a7cc068e446fe873eaf78195ed",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     10.41733,
     46.85169000000001
 ],
-  "geometry": {"coordinates":[10.41733,46.85169000000001],"type":"Point"}
+  "geometry": {"coordinates":[10.41733,46.85169],"type":"Point"}
 }
