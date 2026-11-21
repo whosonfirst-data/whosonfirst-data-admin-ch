@@ -11,8 +11,8 @@
     "geom:longitude":7.81486,
     "gn:country":null,
     "iso:country":"CH",
-    "lbl:latitude":47.362882,
-    "lbl:longitude":7.811279,
+    "lbl:latitude":47.352436,
+    "lbl:longitude":7.812751,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mps:latitude":47.352289,
@@ -49,7 +49,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl_centroid":"mapshaper",
+    "src:lbl_centroid":"whosonfirst",
     "woe:adm0_id":23424957,
     "woe:name_adm0":"Schweiz",
     "woe:name_adm1":"Kanton Solothurn",

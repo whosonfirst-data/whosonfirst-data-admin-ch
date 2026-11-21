@@ -11,8 +11,8 @@
     "geom:longitude":8.934378,
     "gn:country":null,
     "iso:country":"CH",
-    "lbl:latitude":45.974477,
-    "lbl:longitude":8.945102,
+    "lbl:latitude":45.973507,
+    "lbl:longitude":8.935513,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mps:latitude":45.970427,
@@ -91,7 +91,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl_centroid":"mapshaper",
+    "src:lbl_centroid":"whosonfirst",
     "woe:adm0_id":23424957,
     "woe:name_adm0":"Schweiz",
     "woe:name_adm1":"Cantone Ticino",

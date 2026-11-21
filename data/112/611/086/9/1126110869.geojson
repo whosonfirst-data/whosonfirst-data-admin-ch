@@ -13,8 +13,8 @@
     "gn:fcode":"HSE",
     "gn:population":8,
     "iso:country":"CH",
-    "lbl:latitude":47.2042,
-    "lbl:longitude":8.61473,
+    "lbl:latitude":47.001016,
+    "lbl:longitude":8.606488,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mps:latitude":47.000932,
@@ -120,7 +120,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl_centroid":"mapshaper",
+    "src:lbl_centroid":"whosonfirst",
     "src:population":"geonames",
     "wof:belongsto":[
         85682305,

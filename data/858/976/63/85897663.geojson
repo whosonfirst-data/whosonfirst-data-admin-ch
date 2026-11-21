@@ -11,8 +11,8 @@
     "geom:longitude":6.150899,
     "gn:id":"",
     "iso:country":"CH",
-    "lbl:latitude":46.202055,
-    "lbl:longitude":6.146174,
+    "lbl:latitude":46.204367,
+    "lbl:longitude":6.14971,
     "lbl:max_zoom":18.0,
     "mps:latitude":46.204571,
     "mps:longitude":6.149902,
@@ -62,7 +62,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl_centroid":"mz",
+    "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
         102191581,
         404328283,

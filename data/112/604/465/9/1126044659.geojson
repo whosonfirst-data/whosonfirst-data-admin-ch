@@ -13,8 +13,8 @@
     "gn:fcode":"ADM3",
     "gn:population":2119,
     "iso:country":"CH",
-    "lbl:latitude":47.54052,
-    "lbl:longitude":9.09668,
+    "lbl:latitude":47.556321,
+    "lbl:longitude":9.078518,
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":11.5,
     "mps:latitude":47.556692,
@@ -171,7 +171,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl_centroid":"mapshaper",
+    "src:lbl_centroid":"whosonfirst",
     "src:population":"geonames",
     "woe:adm0_id":23424957,
     "woe:name_adm0":"Schweiz",

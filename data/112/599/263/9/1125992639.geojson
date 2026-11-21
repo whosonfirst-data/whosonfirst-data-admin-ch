@@ -11,8 +11,8 @@
     "geom:longitude":6.63653,
     "gn:country":null,
     "iso:country":"CH",
-    "lbl:latitude":46.848866,
-    "lbl:longitude":6.621247,
+    "lbl:latitude":46.842786,
+    "lbl:longitude":6.636563,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mps:latitude":46.844824,
@@ -91,7 +91,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl_centroid":"mapshaper",
+    "src:lbl_centroid":"whosonfirst",
     "woe:adm0_id":23424957,
     "woe:name_adm0":"Schweiz",
     "woe:name_adm1":"Canton de Vaud",

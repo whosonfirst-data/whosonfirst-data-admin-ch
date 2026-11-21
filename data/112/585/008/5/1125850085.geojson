@@ -11,8 +11,8 @@
     "geom:longitude":6.830766,
     "gn:country":null,
     "iso:country":"CH",
-    "lbl:latitude":46.837766,
-    "lbl:longitude":6.818733,
+    "lbl:latitude":46.829931,
+    "lbl:longitude":6.82923,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mps:latitude":46.830504,
@@ -148,7 +148,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl_centroid":"mapshaper",
+    "src:lbl_centroid":"whosonfirst",
     "woe:adm0_id":23424957,
     "woe:name_adm0":"Schweiz",
     "woe:name_adm1":"Canton de Fribourg",

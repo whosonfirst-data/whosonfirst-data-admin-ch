@@ -11,8 +11,8 @@
     "geom:longitude":6.109084,
     "gn:country":null,
     "iso:country":"CH",
-    "lbl:latitude":46.219455,
-    "lbl:longitude":6.097154,
+    "lbl:latitude":46.220763,
+    "lbl:longitude":6.109403,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mps:latitude":46.220734,
@@ -49,7 +49,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl_centroid":"mapshaper",
+    "src:lbl_centroid":"whosonfirst",
     "woe:adm0_id":23424957,
     "woe:name_adm0":"Schweiz",
     "woe:name_adm1":"Canton de Gen\u00e8ve",

@@ -11,8 +11,8 @@
     "geom:longitude":7.705547,
     "gn:country":null,
     "iso:country":"CH",
-    "lbl:latitude":47.217688,
-    "lbl:longitude":7.71782,
+    "lbl:latitude":47.22525,
+    "lbl:longitude":7.707018,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mps:latitude":47.225599,
@@ -151,7 +151,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl_centroid":"mapshaper",
+    "src:lbl_centroid":"whosonfirst",
     "woe:adm0_id":23424957,
     "woe:name_adm0":"Schweiz",
     "woe:name_adm1":"Kanton Bern",

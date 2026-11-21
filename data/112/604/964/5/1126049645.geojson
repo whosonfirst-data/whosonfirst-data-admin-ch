@@ -13,8 +13,8 @@
     "gn:fcode":"PPL",
     "gn:population":0,
     "iso:country":"CH",
-    "lbl:latitude":46.21399,
-    "lbl:longitude":8.85996,
+    "lbl:latitude":46.207322,
+    "lbl:longitude":8.657286,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mps:latitude":46.20816,
@@ -90,7 +90,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl_centroid":"mapshaper",
+    "src:lbl_centroid":"whosonfirst",
     "woe:adm0_id":23424957,
     "woe:name_adm0":"Schweiz",
     "woe:name_adm1":"Cantone Ticino",

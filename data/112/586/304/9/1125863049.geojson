@@ -11,8 +11,8 @@
     "geom:longitude":9.354229,
     "gn:country":null,
     "iso:country":"CH",
-    "lbl:latitude":47.407358,
-    "lbl:longitude":9.343733,
+    "lbl:latitude":47.396905,
+    "lbl:longitude":9.348708,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mps:latitude":47.398777,
@@ -49,7 +49,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl_centroid":"mapshaper",
+    "src:lbl_centroid":"whosonfirst",
     "woe:adm0_id":23424957,
     "woe:name_adm0":"Schweiz",
     "woe:name_adm1":"Kanton Appenzell Ausserrhoden",

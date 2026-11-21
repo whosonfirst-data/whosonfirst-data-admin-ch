@@ -13,8 +13,8 @@
     "gn:fcode":"PPL",
     "gn:population":1784,
     "iso:country":"CH",
-    "lbl:latitude":46.01667,
-    "lbl:longitude":8.88333,
+    "lbl:latitude":46.016806,
+    "lbl:longitude":8.911965,
     "lbl:max_zoom":16.0,
     "lbl:min_zoom":12.0,
     "mps:latitude":46.015132,
@@ -153,7 +153,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl_centroid":"mapshaper",
+    "src:lbl_centroid":"whosonfirst",
     "src:population":"geonames",
     "woe:adm0_id":23424957,
     "woe:name_adm0":"Schweiz",
