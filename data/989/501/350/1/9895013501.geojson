@@ -1,0 +1,77 @@
+{
+  "id": 9895013501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.85047,47.33641,8.85047,47.33641",
+    "geom:latitude":47.33641,
+    "geom:longitude":8.85047,
+    "gn:population":12,
+    "iso:country":"CH",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 6291874: name \"M\u00fchle\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/6291874"
+        },
+        {
+            "citation":"GeoNames populated place 6291874: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/6291874"
+        },
+        {
+            "citation":"GeoNames populated place 6291874: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/6291874"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404568511 (B\u00e4retswil), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633051,
+        85682309,
+        102062967,
+        102191581,
+        404568511
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6291874
+    },
+    "wof:country":"CH",
+    "wof:geomhash":"e7d86b2ab0d47de90366bfa99eb844e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":102062967,
+            "localadmin_id":404568511,
+            "locality_id":9895013501,
+            "region_id":85682309
+        }
+    ],
+    "wof:id":9895013501,
+    "wof:lastmodified":1795735059,
+    "wof:name":"M\u00fchle",
+    "wof:parent_id":404568511,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ch",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.85047,
+    47.33641,
+    8.85047,
+    47.33641
+],
+  "geometry": {"coordinates":[8.85047,47.33641],"type":"Point"}
+}

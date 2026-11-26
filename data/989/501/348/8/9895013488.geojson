@@ -1,0 +1,76 @@
+{
+  "id": 9895013488,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.95799,47.08498,7.95799,47.08498",
+    "geom:latitude":47.08498,
+    "geom:longitude":7.95799,
+    "iso:country":"CH",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 2660366: name \"Hergiswil\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/2660366"
+        },
+        {
+            "citation":"GeoNames populated place 2660366: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/2660366"
+        },
+        {
+            "citation":"GeoNames populated place 2660366: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/2660366"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404328201 (Hergiswil bei Willisau), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633051,
+        85682319,
+        102191581,
+        404328201,
+        1394137075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2660366
+    },
+    "wof:country":"CH",
+    "wof:geomhash":"b2e1e8907de9f07c1c4770453a17475a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":1394137075,
+            "localadmin_id":404328201,
+            "locality_id":9895013488,
+            "region_id":85682319
+        }
+    ],
+    "wof:id":9895013488,
+    "wof:lastmodified":1795735059,
+    "wof:name":"Hergiswil",
+    "wof:parent_id":404328201,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ch",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.95799,
+    47.08498,
+    7.95799,
+    47.08498
+],
+  "geometry": {"coordinates":[7.95799,47.08498],"type":"Point"}
+}

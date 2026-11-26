@@ -1,0 +1,76 @@
+{
+  "id": 9895013626,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.04766,47.489,9.04766,47.489",
+    "geom:latitude":47.489,
+    "geom:longitude":9.04766,
+    "iso:country":"CH",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11743713: name \"Maugwil\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11743713"
+        },
+        {
+            "citation":"GeoNames populated place 11743713: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11743713"
+        },
+        {
+            "citation":"GeoNames populated place 11743713: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11743713"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1394254055 (Wil), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633051,
+        85682341,
+        102062947,
+        102191581,
+        1394254055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11743713
+    },
+    "wof:country":"CH",
+    "wof:geomhash":"38cde6f64039f545c374c4ef2ecadcec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":102062947,
+            "localadmin_id":1394254055,
+            "locality_id":9895013626,
+            "region_id":85682341
+        }
+    ],
+    "wof:id":9895013626,
+    "wof:lastmodified":1795735059,
+    "wof:name":"Maugwil",
+    "wof:parent_id":1394254055,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ch",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.04766,
+    47.489,
+    9.04766,
+    47.489
+],
+  "geometry": {"coordinates":[9.04766,47.489],"type":"Point"}
+}

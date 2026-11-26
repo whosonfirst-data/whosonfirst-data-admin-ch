@@ -1,0 +1,76 @@
+{
+  "id": 9895013621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.25919,46.95666,7.25919,46.95666",
+    "geom:latitude":46.95666,
+    "geom:longitude":7.25919,
+    "iso:country":"CH",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11719136: name \"Steinriesel\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11719136"
+        },
+        {
+            "citation":"GeoNames populated place 11719136: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11719136"
+        },
+        {
+            "citation":"GeoNames populated place 11719136: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11719136"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404568341 (M\u00fchleberg), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633051,
+        85682381,
+        102062861,
+        102191581,
+        404568341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11719136
+    },
+    "wof:country":"CH",
+    "wof:geomhash":"f3d292eb5de1ba2fa82cfb1c59384565",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":102062861,
+            "localadmin_id":404568341,
+            "locality_id":9895013621,
+            "region_id":85682381
+        }
+    ],
+    "wof:id":9895013621,
+    "wof:lastmodified":1795735059,
+    "wof:name":"Steinriesel",
+    "wof:parent_id":404568341,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ch",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.25919,
+    46.95666,
+    7.25919,
+    46.95666
+],
+  "geometry": {"coordinates":[7.25919,46.95666],"type":"Point"}
+}

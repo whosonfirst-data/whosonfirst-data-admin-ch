@@ -1,0 +1,76 @@
+{
+  "id": 9895013594,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.80418,46.81811,6.80418,46.81811",
+    "geom:latitude":46.81811,
+    "geom:longitude":6.80418,
+    "iso:country":"CH",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11543506: name \"B\u00e9thanie\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11543506"
+        },
+        {
+            "citation":"GeoNames populated place 11543506: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11543506"
+        },
+        {
+            "citation":"GeoNames populated place 11543506: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11543506"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1394254015 (Cheyres-Ch\u00e2bles), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633051,
+        85682301,
+        102062945,
+        102191581,
+        1394254015
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11543506
+    },
+    "wof:country":"CH",
+    "wof:geomhash":"1e8a769de9eec42864773dc1f00d0ba5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":102062945,
+            "localadmin_id":1394254015,
+            "locality_id":9895013594,
+            "region_id":85682301
+        }
+    ],
+    "wof:id":9895013594,
+    "wof:lastmodified":1795735059,
+    "wof:name":"B\u00e9thanie",
+    "wof:parent_id":1394254015,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ch",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.80418,
+    46.81811,
+    6.80418,
+    46.81811
+],
+  "geometry": {"coordinates":[6.80418,46.81811],"type":"Point"}
+}

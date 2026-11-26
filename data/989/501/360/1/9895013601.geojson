@@ -1,0 +1,76 @@
+{
+  "id": 9895013601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.25906,47.16258,8.25906,47.16258",
+    "geom:latitude":47.16258,
+    "geom:longitude":8.25906,
+    "iso:country":"CH",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11584677: name \"Neuheim\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11584677"
+        },
+        {
+            "citation":"GeoNames populated place 11584677: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11584677"
+        },
+        {
+            "citation":"GeoNames populated place 11584677: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11584677"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404328299 (R\u00f6merswil), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633051,
+        85682319,
+        102191581,
+        404328299,
+        1394137081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11584677
+    },
+    "wof:country":"CH",
+    "wof:geomhash":"b82602c847a218cd35a710724ddb1ab9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":1394137081,
+            "localadmin_id":404328299,
+            "locality_id":9895013601,
+            "region_id":85682319
+        }
+    ],
+    "wof:id":9895013601,
+    "wof:lastmodified":1795735059,
+    "wof:name":"Neuheim",
+    "wof:parent_id":404328299,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ch",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.25906,
+    47.16258,
+    8.25906,
+    47.16258
+],
+  "geometry": {"coordinates":[8.25906,47.16258],"type":"Point"}
+}

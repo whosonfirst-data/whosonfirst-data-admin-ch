@@ -1,0 +1,76 @@
+{
+  "id": 9895013593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.18857,46.74365,7.18857,46.74365",
+    "geom:latitude":46.74365,
+    "geom:longitude":7.18857,
+    "iso:country":"CH",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11540782: name \"Le Pafuet\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11540782"
+        },
+        {
+            "citation":"GeoNames populated place 11540782: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11540782"
+        },
+        {
+            "citation":"GeoNames populated place 11540782: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11540782"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404568671 (Le Mouret), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633051,
+        85682301,
+        102063029,
+        102191581,
+        404568671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11540782
+    },
+    "wof:country":"CH",
+    "wof:geomhash":"fa19ee93db16c7c8919905aa81e1ddf6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":102063029,
+            "localadmin_id":404568671,
+            "locality_id":9895013593,
+            "region_id":85682301
+        }
+    ],
+    "wof:id":9895013593,
+    "wof:lastmodified":1795735059,
+    "wof:name":"Le Pafuet",
+    "wof:parent_id":404568671,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ch",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.18857,
+    46.74365,
+    7.18857,
+    46.74365
+],
+  "geometry": {"coordinates":[7.18857,46.74365],"type":"Point"}
+}

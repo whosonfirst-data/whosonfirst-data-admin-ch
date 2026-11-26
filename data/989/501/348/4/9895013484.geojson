@@ -1,0 +1,76 @@
+{
+  "id": 9895013484,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.63775,46.99023,9.63775,46.99023",
+    "geom:latitude":46.99023,
+    "geom:longitude":9.63775,
+    "iso:country":"CH",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 2658645: name \"Seewis im Pr\u00e4tigau\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/2658645"
+        },
+        {
+            "citation":"GeoNames populated place 2658645: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/2658645"
+        },
+        {
+            "citation":"GeoNames populated place 2658645: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/2658645"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404568011 (Seewis im Pr\u00e4ttigau), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633051,
+        85682255,
+        102062803,
+        102191581,
+        404568011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2658645
+    },
+    "wof:country":"CH",
+    "wof:geomhash":"83c0be4b6c7c264088c3eb676e3f8319",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":102062803,
+            "localadmin_id":404568011,
+            "locality_id":9895013484,
+            "region_id":85682255
+        }
+    ],
+    "wof:id":9895013484,
+    "wof:lastmodified":1795735059,
+    "wof:name":"Seewis im Pr\u00e4tigau",
+    "wof:parent_id":404568011,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ch",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.63775,
+    46.99023,
+    9.63775,
+    46.99023
+],
+  "geometry": {"coordinates":[9.63775,46.99023],"type":"Point"}
+}

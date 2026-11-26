@@ -1,0 +1,76 @@
+{
+  "id": 9895013663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.92176,46.09722,8.92176,46.09722",
+    "geom:latitude":46.09722,
+    "geom:longitude":8.92176,
+    "iso:country":"CH",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11789671: name \"Vira\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11789671"
+        },
+        {
+            "citation":"GeoNames populated place 11789671: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11789671"
+        },
+        {
+            "citation":"GeoNames populated place 11789671: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11789671"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404569733 (Mezzovico-Vira), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633051,
+        85682269,
+        102062767,
+        102191581,
+        404569733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11789671
+    },
+    "wof:country":"CH",
+    "wof:geomhash":"147b9a5ec850795e90a81ed86d04a3d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":102062767,
+            "localadmin_id":404569733,
+            "locality_id":9895013663,
+            "region_id":85682269
+        }
+    ],
+    "wof:id":9895013663,
+    "wof:lastmodified":1795735059,
+    "wof:name":"Vira",
+    "wof:parent_id":404569733,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ch",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.92176,
+    46.09722,
+    8.92176,
+    46.09722
+],
+  "geometry": {"coordinates":[8.92176,46.09722],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 9895013518,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.64699,47.18804,8.64699,47.18804",
+    "geom:latitude":47.18804,
+    "geom:longitude":8.64699,
+    "gn:population":2,
+    "iso:country":"CH",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 6293066: name \"Neuhof\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/6293066"
+        },
+        {
+            "citation":"GeoNames populated place 6293066: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/6293066"
+        },
+        {
+            "citation":"GeoNames populated place 6293066: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/6293066"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1394253971 (W\u00e4denswil), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633051,
+        85682309,
+        102062825,
+        102191581,
+        1394253971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6293066
+    },
+    "wof:country":"CH",
+    "wof:geomhash":"fbc1d9dcd5357344ac9a0b725053bf63",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":102062825,
+            "localadmin_id":1394253971,
+            "locality_id":9895013518,
+            "region_id":85682309
+        }
+    ],
+    "wof:id":9895013518,
+    "wof:lastmodified":1795735059,
+    "wof:name":"Neuhof",
+    "wof:parent_id":1394253971,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ch",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.64699,
+    47.18804,
+    8.64699,
+    47.18804
+],
+  "geometry": {"coordinates":[8.64699,47.18804],"type":"Point"}
+}

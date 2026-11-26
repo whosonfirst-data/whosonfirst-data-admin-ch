@@ -1,0 +1,76 @@
+{
+  "id": 9895013534,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.42892,46.994,8.42892,46.994",
+    "geom:latitude":46.994,
+    "geom:longitude":8.42892,
+    "iso:country":"CH",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 10130940: name \"Birchen\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/10130940"
+        },
+        {
+            "citation":"GeoNames populated place 10130940: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/10130940"
+        },
+        {
+            "citation":"GeoNames populated place 10130940: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/10130940"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404328291 (Ennetb\u00fcrgen), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633051,
+        85682315,
+        102062973,
+        102191581,
+        404328291
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10130940
+    },
+    "wof:country":"CH",
+    "wof:geomhash":"64e881809bc0cc129bcb47e97f862bfc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":102062973,
+            "localadmin_id":404328291,
+            "locality_id":9895013534,
+            "region_id":85682315
+        }
+    ],
+    "wof:id":9895013534,
+    "wof:lastmodified":1795735059,
+    "wof:name":"Birchen",
+    "wof:parent_id":404328291,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ch",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.42892,
+    46.994,
+    8.42892,
+    46.994
+],
+  "geometry": {"coordinates":[8.42892,46.994],"type":"Point"}
+}

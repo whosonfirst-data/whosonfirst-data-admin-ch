@@ -1,0 +1,76 @@
+{
+  "id": 9895013598,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.14948,47.39122,9.14948,47.39122",
+    "geom:latitude":47.39122,
+    "geom:longitude":9.14948,
+    "iso:country":"CH",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11584380: name \"Dottenwil\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11584380"
+        },
+        {
+            "citation":"GeoNames populated place 11584380: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11584380"
+        },
+        {
+            "citation":"GeoNames populated place 11584380: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11584380"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404569009 (L\u00fctisburg), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633051,
+        85682341,
+        102062771,
+        102191581,
+        404569009
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11584380
+    },
+    "wof:country":"CH",
+    "wof:geomhash":"e6417c602b39ee7a9bef114725d84b78",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":102062771,
+            "localadmin_id":404569009,
+            "locality_id":9895013598,
+            "region_id":85682341
+        }
+    ],
+    "wof:id":9895013598,
+    "wof:lastmodified":1795735059,
+    "wof:name":"Dottenwil",
+    "wof:parent_id":404569009,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ch",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.14948,
+    47.39122,
+    9.14948,
+    47.39122
+],
+  "geometry": {"coordinates":[9.14948,47.39122],"type":"Point"}
+}

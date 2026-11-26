@@ -1,0 +1,76 @@
+{
+  "id": 9895013570,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.57074,46.50203,7.57074,46.50203",
+    "geom:latitude":46.50203,
+    "geom:longitude":7.57074,
+    "iso:country":"CH",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11465689: name \"Ausser Schwand\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11465689"
+        },
+        {
+            "citation":"GeoNames populated place 11465689: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11465689"
+        },
+        {
+            "citation":"GeoNames populated place 11465689: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11465689"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404567823 (Adelboden), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633051,
+        85682381,
+        102062831,
+        102191581,
+        404567823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11465689
+    },
+    "wof:country":"CH",
+    "wof:geomhash":"be469f91acec3e2d304652e4579512ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":102062831,
+            "localadmin_id":404567823,
+            "locality_id":9895013570,
+            "region_id":85682381
+        }
+    ],
+    "wof:id":9895013570,
+    "wof:lastmodified":1795735059,
+    "wof:name":"Ausser Schwand",
+    "wof:parent_id":404567823,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ch",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.57074,
+    46.50203,
+    7.57074,
+    46.50203
+],
+  "geometry": {"coordinates":[7.57074,46.50203],"type":"Point"}
+}

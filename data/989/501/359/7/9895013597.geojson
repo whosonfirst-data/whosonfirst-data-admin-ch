@@ -1,0 +1,76 @@
+{
+  "id": 9895013597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.08485,47.02942,9.08485,47.02942",
+    "geom:latitude":47.02942,
+    "geom:longitude":9.08485,
+    "iso:country":"CH",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11579230: name \"Matt\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11579230"
+        },
+        {
+            "citation":"GeoNames populated place 11579230: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11579230"
+        },
+        {
+            "citation":"GeoNames populated place 11579230: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11579230"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404328119 (Glarus), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633051,
+        85682249,
+        102063003,
+        102191581,
+        404328119
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11579230
+    },
+    "wof:country":"CH",
+    "wof:geomhash":"b39458729ed200625ef989a05f20d0f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":102063003,
+            "localadmin_id":404328119,
+            "locality_id":9895013597,
+            "region_id":85682249
+        }
+    ],
+    "wof:id":9895013597,
+    "wof:lastmodified":1795735059,
+    "wof:name":"Matt",
+    "wof:parent_id":404328119,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ch",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.08485,
+    47.02942,
+    9.08485,
+    47.02942
+],
+  "geometry": {"coordinates":[9.08485,47.02942],"type":"Point"}
+}

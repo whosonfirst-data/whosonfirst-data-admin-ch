@@ -1,0 +1,76 @@
+{
+  "id": 9895013660,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.5144,47.3312,8.5144,47.3312",
+    "geom:latitude":47.3312,
+    "geom:longitude":8.5144,
+    "iso:country":"CH",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11789319: name \"Leimbach\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11789319"
+        },
+        {
+            "citation":"GeoNames populated place 11789319: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11789319"
+        },
+        {
+            "citation":"GeoNames populated place 11789319: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11789319"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1394254167 (Z\u00fcrich), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633051,
+        85682309,
+        102063071,
+        102191581,
+        1394254167
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11789319
+    },
+    "wof:country":"CH",
+    "wof:geomhash":"8005cf5768c50db086dc70f5e35bff0e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":102063071,
+            "localadmin_id":1394254167,
+            "locality_id":9895013660,
+            "region_id":85682309
+        }
+    ],
+    "wof:id":9895013660,
+    "wof:lastmodified":1795735059,
+    "wof:name":"Leimbach",
+    "wof:parent_id":1394254167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ch",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.5144,
+    47.3312,
+    8.5144,
+    47.3312
+],
+  "geometry": {"coordinates":[8.5144,47.3312],"type":"Point"}
+}

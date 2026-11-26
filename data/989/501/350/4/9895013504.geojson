@@ -1,0 +1,77 @@
+{
+  "id": 9895013504,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.88842,47.27253,8.88842,47.27253",
+    "geom:latitude":47.27253,
+    "geom:longitude":8.88842,
+    "gn:population":31,
+    "iso:country":"CH",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 6292054: name \"T\u00f6beli\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/6292054"
+        },
+        {
+            "citation":"GeoNames populated place 6292054: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/6292054"
+        },
+        {
+            "citation":"GeoNames populated place 6292054: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/6292054"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404569731 (D\u00fcrnten), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633051,
+        85682309,
+        102062967,
+        102191581,
+        404569731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6292054
+    },
+    "wof:country":"CH",
+    "wof:geomhash":"f53e60d4b2574689e906ef4746db7f29",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":102062967,
+            "localadmin_id":404569731,
+            "locality_id":9895013504,
+            "region_id":85682309
+        }
+    ],
+    "wof:id":9895013504,
+    "wof:lastmodified":1795735059,
+    "wof:name":"T\u00f6beli",
+    "wof:parent_id":404569731,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ch",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.88842,
+    47.27253,
+    8.88842,
+    47.27253
+],
+  "geometry": {"coordinates":[8.88842,47.27253],"type":"Point"}
+}

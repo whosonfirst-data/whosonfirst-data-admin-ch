@@ -1,0 +1,76 @@
+{
+  "id": 9895013655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.51402,47.34458,9.51402,47.34458",
+    "geom:latitude":47.34458,
+    "geom:longitude":9.51402,
+    "iso:country":"CH",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11774901: name \"H\u00f6lzlisberg\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11774901"
+        },
+        {
+            "citation":"GeoNames populated place 11774901: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11774901"
+        },
+        {
+            "citation":"GeoNames populated place 11774901: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11774901"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404571121 (Eichberg), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633051,
+        85682341,
+        102063005,
+        102191581,
+        404571121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11774901
+    },
+    "wof:country":"CH",
+    "wof:geomhash":"3b029b9935bb015fa4f82420380ec282",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":102063005,
+            "localadmin_id":404571121,
+            "locality_id":9895013655,
+            "region_id":85682341
+        }
+    ],
+    "wof:id":9895013655,
+    "wof:lastmodified":1795735059,
+    "wof:name":"H\u00f6lzlisberg",
+    "wof:parent_id":404571121,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ch",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.51402,
+    47.34458,
+    9.51402,
+    47.34458
+],
+  "geometry": {"coordinates":[9.51402,47.34458],"type":"Point"}
+}

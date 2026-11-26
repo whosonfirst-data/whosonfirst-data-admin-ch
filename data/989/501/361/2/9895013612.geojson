@@ -1,0 +1,76 @@
+{
+  "id": 9895013612,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.68022,47.15267,7.68022,47.15267",
+    "geom:latitude":47.15267,
+    "geom:longitude":7.68022,
+    "iso:country":"CH",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11651999: name \"Regenhalden\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11651999"
+        },
+        {
+            "citation":"GeoNames populated place 11651999: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11651999"
+        },
+        {
+            "citation":"GeoNames populated place 11651999: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11651999"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1394254129 (Seeberg), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633051,
+        85682381,
+        102063013,
+        102191581,
+        1394254129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11651999
+    },
+    "wof:country":"CH",
+    "wof:geomhash":"030c60572b3d946afce30683dc0848ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":102063013,
+            "localadmin_id":1394254129,
+            "locality_id":9895013612,
+            "region_id":85682381
+        }
+    ],
+    "wof:id":9895013612,
+    "wof:lastmodified":1795735059,
+    "wof:name":"Regenhalden",
+    "wof:parent_id":1394254129,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ch",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.68022,
+    47.15267,
+    7.68022,
+    47.15267
+],
+  "geometry": {"coordinates":[7.68022,47.15267],"type":"Point"}
+}

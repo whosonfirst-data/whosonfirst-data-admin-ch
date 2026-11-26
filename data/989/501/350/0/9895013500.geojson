@@ -1,0 +1,77 @@
+{
+  "id": 9895013500,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.55341,47.43203,8.55341,47.43203",
+    "geom:latitude":47.43203,
+    "geom:longitude":8.55341,
+    "gn:population":13,
+    "iso:country":"CH",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 6291730: name \"Industriestrasse\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/6291730"
+        },
+        {
+            "citation":"GeoNames populated place 6291730: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/6291730"
+        },
+        {
+            "citation":"GeoNames populated place 6291730: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/6291730"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404569213 (R\u00fcmlang), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633051,
+        85682309,
+        102062995,
+        102191581,
+        404569213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6291730
+    },
+    "wof:country":"CH",
+    "wof:geomhash":"e46fc2d08dd979335a3538e238a42bc4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":102062995,
+            "localadmin_id":404569213,
+            "locality_id":9895013500,
+            "region_id":85682309
+        }
+    ],
+    "wof:id":9895013500,
+    "wof:lastmodified":1795735059,
+    "wof:name":"Industriestrasse",
+    "wof:parent_id":404569213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ch",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.55341,
+    47.43203,
+    8.55341,
+    47.43203
+],
+  "geometry": {"coordinates":[8.55341,47.43203],"type":"Point"}
+}

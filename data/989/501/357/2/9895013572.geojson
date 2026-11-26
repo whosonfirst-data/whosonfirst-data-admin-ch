@@ -1,0 +1,76 @@
+{
+  "id": 9895013572,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.25618,46.4948,7.25618,46.4948",
+    "geom:latitude":46.4948,
+    "geom:longitude":7.25618,
+    "iso:country":"CH",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11465732: name \"Underbort\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11465732"
+        },
+        {
+            "citation":"GeoNames populated place 11465732: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11465732"
+        },
+        {
+            "citation":"GeoNames populated place 11465732: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11465732"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404567771 (Saanen), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633051,
+        85682381,
+        102062821,
+        102191581,
+        404567771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11465732
+    },
+    "wof:country":"CH",
+    "wof:geomhash":"c324c27f5f609107568acff6d671a762",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":102062821,
+            "localadmin_id":404567771,
+            "locality_id":9895013572,
+            "region_id":85682381
+        }
+    ],
+    "wof:id":9895013572,
+    "wof:lastmodified":1795735059,
+    "wof:name":"Underbort",
+    "wof:parent_id":404567771,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ch",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.25618,
+    46.4948,
+    7.25618,
+    46.4948
+],
+  "geometry": {"coordinates":[7.25618,46.4948],"type":"Point"}
+}

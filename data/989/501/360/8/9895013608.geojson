@@ -1,0 +1,76 @@
+{
+  "id": 9895013608,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.4238,46.98024,7.4238,46.98024",
+    "geom:latitude":46.98024,
+    "geom:longitude":7.4238,
+    "iso:country":"CH",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11605034: name \"Hostalen\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11605034"
+        },
+        {
+            "citation":"GeoNames populated place 11605034: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11605034"
+        },
+        {
+            "citation":"GeoNames populated place 11605034: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11605034"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404569289 (Kirchlindach), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633051,
+        85682381,
+        102062861,
+        102191581,
+        404569289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11605034
+    },
+    "wof:country":"CH",
+    "wof:geomhash":"10598190b80b057cf7161a34f6412ae5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":102062861,
+            "localadmin_id":404569289,
+            "locality_id":9895013608,
+            "region_id":85682381
+        }
+    ],
+    "wof:id":9895013608,
+    "wof:lastmodified":1795735059,
+    "wof:name":"Hostalen",
+    "wof:parent_id":404569289,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ch",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.4238,
+    46.98024,
+    7.4238,
+    46.98024
+],
+  "geometry": {"coordinates":[7.4238,46.98024],"type":"Point"}
+}

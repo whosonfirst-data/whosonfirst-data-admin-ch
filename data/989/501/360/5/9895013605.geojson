@@ -1,0 +1,76 @@
+{
+  "id": 9895013605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.75874,47.13132,8.75874,47.13132",
+    "geom:latitude":47.13132,
+    "geom:longitude":8.75874,
+    "iso:country":"CH",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11601874: name \"Lincoln\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11601874"
+        },
+        {
+            "citation":"GeoNames populated place 11601874: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11601874"
+        },
+        {
+            "citation":"GeoNames populated place 11601874: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11601874"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1394254135 (Einsiedeln), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633051,
+        85682305,
+        102062795,
+        102191581,
+        1394254135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11601874
+    },
+    "wof:country":"CH",
+    "wof:geomhash":"8043130e4d854e0bbd1299dd36193e34",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":102062795,
+            "localadmin_id":1394254135,
+            "locality_id":9895013605,
+            "region_id":85682305
+        }
+    ],
+    "wof:id":9895013605,
+    "wof:lastmodified":1795735059,
+    "wof:name":"Lincoln",
+    "wof:parent_id":1394254135,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ch",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.75874,
+    47.13132,
+    8.75874,
+    47.13132
+],
+  "geometry": {"coordinates":[8.75874,47.13132],"type":"Point"}
+}

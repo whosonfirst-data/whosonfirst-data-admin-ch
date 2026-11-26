@@ -1,0 +1,76 @@
+{
+  "id": 9895013633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.55121,47.4727,9.55121,47.4727",
+    "geom:latitude":47.4727,
+    "geom:longitude":9.55121,
+    "iso:country":"CH",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11745454: name \"Buechstiggass\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11745454"
+        },
+        {
+            "citation":"GeoNames populated place 11745454: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11745454"
+        },
+        {
+            "citation":"GeoNames populated place 11745454: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11745454"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404569847 (Thal), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633051,
+        85682341,
+        102062855,
+        102191581,
+        404569847
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11745454
+    },
+    "wof:country":"CH",
+    "wof:geomhash":"95a530e8a5f83155c1f7acac555f1dda",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":102062855,
+            "localadmin_id":404569847,
+            "locality_id":9895013633,
+            "region_id":85682341
+        }
+    ],
+    "wof:id":9895013633,
+    "wof:lastmodified":1795735059,
+    "wof:name":"Buechstiggass",
+    "wof:parent_id":404569847,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ch",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.55121,
+    47.4727,
+    9.55121,
+    47.4727
+],
+  "geometry": {"coordinates":[9.55121,47.4727],"type":"Point"}
+}

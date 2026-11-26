@@ -1,0 +1,76 @@
+{
+  "id": 9895013564,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.21552,46.07191,7.21552,46.07191",
+    "geom:latitude":46.07191,
+    "geom:longitude":7.21552,
+    "iso:country":"CH",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11218531: name \"Le Sapey\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11218531"
+        },
+        {
+            "citation":"GeoNames populated place 11218531: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11218531"
+        },
+        {
+            "citation":"GeoNames populated place 11218531: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11218531"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404567697 (Bagnes), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633051,
+        85682281,
+        102062807,
+        102191581,
+        404567697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11218531
+    },
+    "wof:country":"CH",
+    "wof:geomhash":"be482dbe325af25c3ef6bf8a4cc1e984",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":102062807,
+            "localadmin_id":404567697,
+            "locality_id":9895013564,
+            "region_id":85682281
+        }
+    ],
+    "wof:id":9895013564,
+    "wof:lastmodified":1795735059,
+    "wof:name":"Le Sapey",
+    "wof:parent_id":404567697,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ch",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.21552,
+    46.07191,
+    7.21552,
+    46.07191
+],
+  "geometry": {"coordinates":[7.21552,46.07191],"type":"Point"}
+}

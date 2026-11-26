@@ -1,0 +1,74 @@
+{
+  "id": 9895013595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.88221,47.03913,6.88221,47.03913",
+    "geom:latitude":47.03913,
+    "geom:longitude":6.88221,
+    "iso:country":"CH",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11547752: name \"La Jonch\u00e8re\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11547752"
+        },
+        {
+            "citation":"GeoNames populated place 11547752: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11547752"
+        },
+        {
+            "citation":"GeoNames populated place 11547752: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11547752"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1394254123 (Val-de-Ruz), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633051,
+        85682359,
+        102191581,
+        1394254123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11547752
+    },
+    "wof:country":"CH",
+    "wof:geomhash":"94e4a03679a53b57a8c6c4b9a650d99f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "localadmin_id":1394254123,
+            "locality_id":9895013595,
+            "region_id":85682359
+        }
+    ],
+    "wof:id":9895013595,
+    "wof:lastmodified":1795735059,
+    "wof:name":"La Jonch\u00e8re",
+    "wof:parent_id":1394254123,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ch",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.88221,
+    47.03913,
+    6.88221,
+    47.03913
+],
+  "geometry": {"coordinates":[6.88221,47.03913],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 9895013620,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.34049,47.24,8.34049,47.24",
+    "geom:latitude":47.24,
+    "geom:longitude":8.34049,
+    "iso:country":"CH",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11695938: name \"Winterschwil\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11695938"
+        },
+        {
+            "citation":"GeoNames populated place 11695938: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11695938"
+        },
+        {
+            "citation":"GeoNames populated place 11695938: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11695938"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404569493 (Beinwil), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633051,
+        85682329,
+        102062809,
+        102191581,
+        404569493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11695938
+    },
+    "wof:country":"CH",
+    "wof:geomhash":"dd81c4cc8a749996cdc796e0f49e8145",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":102062809,
+            "localadmin_id":404569493,
+            "locality_id":9895013620,
+            "region_id":85682329
+        }
+    ],
+    "wof:id":9895013620,
+    "wof:lastmodified":1795735059,
+    "wof:name":"Winterschwil",
+    "wof:parent_id":404569493,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ch",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.34049,
+    47.24,
+    8.34049,
+    47.24
+],
+  "geometry": {"coordinates":[8.34049,47.24],"type":"Point"}
+}

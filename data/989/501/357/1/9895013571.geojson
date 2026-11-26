@@ -1,0 +1,76 @@
+{
+  "id": 9895013571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.56391,46.49589,7.56391,46.49589",
+    "geom:latitude":46.49589,
+    "geom:longitude":7.56391,
+    "iso:country":"CH",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11465722: name \"Schlegeli\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11465722"
+        },
+        {
+            "citation":"GeoNames populated place 11465722: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11465722"
+        },
+        {
+            "citation":"GeoNames populated place 11465722: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11465722"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404567823 (Adelboden), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633051,
+        85682381,
+        102062831,
+        102191581,
+        404567823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11465722
+    },
+    "wof:country":"CH",
+    "wof:geomhash":"f483ec07bbb3ecf7ec7615c719cb6a6b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":102062831,
+            "localadmin_id":404567823,
+            "locality_id":9895013571,
+            "region_id":85682381
+        }
+    ],
+    "wof:id":9895013571,
+    "wof:lastmodified":1795735059,
+    "wof:name":"Schlegeli",
+    "wof:parent_id":404567823,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ch",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.56391,
+    46.49589,
+    7.56391,
+    46.49589
+],
+  "geometry": {"coordinates":[7.56391,46.49589],"type":"Point"}
+}

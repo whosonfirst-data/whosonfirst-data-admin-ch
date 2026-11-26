@@ -1,0 +1,77 @@
+{
+  "id": 9895013671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.82667,47.00227,7.82667,47.00227",
+    "geom:latitude":47.00227,
+    "geom:longitude":7.82667,
+    "gn:population":10,
+    "iso:country":"CH",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12232618: name \"L\u00fcderenalp\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12232618"
+        },
+        {
+            "citation":"GeoNames populated place 12232618: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12232618"
+        },
+        {
+            "citation":"GeoNames populated place 12232618: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12232618"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404567921 (Sumiswald), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633051,
+        85682381,
+        102062837,
+        102191581,
+        404567921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12232618
+    },
+    "wof:country":"CH",
+    "wof:geomhash":"c1ce9702cabaa1a4871d6333359d0b91",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":102062837,
+            "localadmin_id":404567921,
+            "locality_id":9895013671,
+            "region_id":85682381
+        }
+    ],
+    "wof:id":9895013671,
+    "wof:lastmodified":1795735059,
+    "wof:name":"L\u00fcderenalp",
+    "wof:parent_id":404567921,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ch",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.82667,
+    47.00227,
+    7.82667,
+    47.00227
+],
+  "geometry": {"coordinates":[7.82667,47.00227],"type":"Point"}
+}

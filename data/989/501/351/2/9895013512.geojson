@@ -1,0 +1,77 @@
+{
+  "id": 9895013512,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.53016,47.3201,8.53016,47.3201",
+    "geom:latitude":47.3201,
+    "geom:longitude":8.53016,
+    "gn:population":62,
+    "iso:country":"CH",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 6292653: name \"Gr\u00fct\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/6292653"
+        },
+        {
+            "citation":"GeoNames populated place 6292653: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/6292653"
+        },
+        {
+            "citation":"GeoNames populated place 6292653: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/6292653"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404570347 (Adliswil), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633051,
+        85682309,
+        102062825,
+        102191581,
+        404570347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6292653
+    },
+    "wof:country":"CH",
+    "wof:geomhash":"b51327ab4178a712bbb30acba17ed5d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":102062825,
+            "localadmin_id":404570347,
+            "locality_id":9895013512,
+            "region_id":85682309
+        }
+    ],
+    "wof:id":9895013512,
+    "wof:lastmodified":1795735059,
+    "wof:name":"Gr\u00fct",
+    "wof:parent_id":404570347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ch",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.53016,
+    47.3201,
+    8.53016,
+    47.3201
+],
+  "geometry": {"coordinates":[8.53016,47.3201],"type":"Point"}
+}

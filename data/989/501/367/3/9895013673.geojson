@@ -1,0 +1,76 @@
+{
+  "id": 9895013673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.75051,46.00103,7.75051,46.00103",
+    "geom:latitude":46.00103,
+    "geom:longitude":7.75051,
+    "iso:country":"CH",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12557655: name \"Riffelalp\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12557655"
+        },
+        {
+            "citation":"GeoNames populated place 12557655: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12557655"
+        },
+        {
+            "citation":"GeoNames populated place 12557655: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12557655"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404567705 (Zermatt), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633051,
+        85682281,
+        102062859,
+        102191581,
+        404567705
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12557655
+    },
+    "wof:country":"CH",
+    "wof:geomhash":"4168226ca87ecc9565031a60d9231840",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":102062859,
+            "localadmin_id":404567705,
+            "locality_id":9895013673,
+            "region_id":85682281
+        }
+    ],
+    "wof:id":9895013673,
+    "wof:lastmodified":1795735059,
+    "wof:name":"Riffelalp",
+    "wof:parent_id":404567705,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ch",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.75051,
+    46.00103,
+    7.75051,
+    46.00103
+],
+  "geometry": {"coordinates":[7.75051,46.00103],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 9895013642,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.30801,47.38774,9.30801,47.38774",
+    "geom:latitude":47.38774,
+    "geom:longitude":9.30801,
+    "iso:country":"CH",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11766378: name \"Saum\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11766378"
+        },
+        {
+            "citation":"GeoNames populated place 11766378: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11766378"
+        },
+        {
+            "citation":"GeoNames populated place 11766378: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11766378"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404328233 (Herisau), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633051,
+        85682353,
+        102191581,
+        404328233,
+        1394137085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11766378
+    },
+    "wof:country":"CH",
+    "wof:geomhash":"f4aea3ef278ed12fb639a9f43b4b6f73",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":1394137085,
+            "localadmin_id":404328233,
+            "locality_id":9895013642,
+            "region_id":85682353
+        }
+    ],
+    "wof:id":9895013642,
+    "wof:lastmodified":1795735059,
+    "wof:name":"Saum",
+    "wof:parent_id":404328233,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ch",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.30801,
+    47.38774,
+    9.30801,
+    47.38774
+],
+  "geometry": {"coordinates":[9.30801,47.38774],"type":"Point"}
+}

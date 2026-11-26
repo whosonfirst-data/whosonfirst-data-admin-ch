@@ -1,0 +1,76 @@
+{
+  "id": 9895013543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.18548,46.41334,6.18548,46.41334",
+    "geom:latitude":46.41334,
+    "geom:longitude":6.18548,
+    "iso:country":"CH",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11215524: name \"Le Mondau\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11215524"
+        },
+        {
+            "citation":"GeoNames populated place 11215524: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11215524"
+        },
+        {
+            "citation":"GeoNames populated place 11215524: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11215524"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404569189 (Gingins), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633051,
+        85682325,
+        102063049,
+        102191581,
+        404569189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11215524
+    },
+    "wof:country":"CH",
+    "wof:geomhash":"f0a352d3f95724ef6f3ed70f2ae5ba11",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":102063049,
+            "localadmin_id":404569189,
+            "locality_id":9895013543,
+            "region_id":85682325
+        }
+    ],
+    "wof:id":9895013543,
+    "wof:lastmodified":1795735059,
+    "wof:name":"Le Mondau",
+    "wof:parent_id":404569189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ch",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.18548,
+    46.41334,
+    6.18548,
+    46.41334
+],
+  "geometry": {"coordinates":[6.18548,46.41334],"type":"Point"}
+}

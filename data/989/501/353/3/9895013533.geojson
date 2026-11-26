@@ -1,0 +1,76 @@
+{
+  "id": 9895013533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.85813,47.1669,6.85813,47.1669",
+    "geom:latitude":47.1669,
+    "geom:longitude":6.85813,
+    "iso:country":"CH",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 9253241: name \"Biaufond\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/9253241"
+        },
+        {
+            "citation":"GeoNames populated place 9253241: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/9253241"
+        },
+        {
+            "citation":"GeoNames populated place 9253241: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/9253241"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404568403 (Les Bois), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633051,
+        85682347,
+        102062875,
+        102191581,
+        404568403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9253241
+    },
+    "wof:country":"CH",
+    "wof:geomhash":"c58e6c9611de5a9b58b11c49c88845b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":102062875,
+            "localadmin_id":404568403,
+            "locality_id":9895013533,
+            "region_id":85682347
+        }
+    ],
+    "wof:id":9895013533,
+    "wof:lastmodified":1795735059,
+    "wof:name":"Biaufond",
+    "wof:parent_id":404568403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ch",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.85813,
+    47.1669,
+    6.85813,
+    47.1669
+],
+  "geometry": {"coordinates":[6.85813,47.1669],"type":"Point"}
+}

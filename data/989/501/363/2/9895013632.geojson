@@ -1,0 +1,76 @@
+{
+  "id": 9895013632,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.52498,47.47057,9.52498,47.47057",
+    "geom:latitude":47.47057,
+    "geom:longitude":9.52498,
+    "iso:country":"CH",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11745313: name \"Wartensee\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11745313"
+        },
+        {
+            "citation":"GeoNames populated place 11745313: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11745313"
+        },
+        {
+            "citation":"GeoNames populated place 11745313: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11745313"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404570541 (Rorschacherberg), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633051,
+        85682341,
+        102062855,
+        102191581,
+        404570541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11745313
+    },
+    "wof:country":"CH",
+    "wof:geomhash":"d935d14e9b3cbae0d927e4ff6424b49f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":102062855,
+            "localadmin_id":404570541,
+            "locality_id":9895013632,
+            "region_id":85682341
+        }
+    ],
+    "wof:id":9895013632,
+    "wof:lastmodified":1795735059,
+    "wof:name":"Wartensee",
+    "wof:parent_id":404570541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ch",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.52498,
+    47.47057,
+    9.52498,
+    47.47057
+],
+  "geometry": {"coordinates":[9.52498,47.47057],"type":"Point"}
+}

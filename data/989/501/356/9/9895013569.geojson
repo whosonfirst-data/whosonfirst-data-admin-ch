@@ -1,0 +1,76 @@
+{
+  "id": 9895013569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.6563,46.56882,7.6563,46.56882",
+    "geom:latitude":46.56882,
+    "geom:longitude":7.6563,
+    "iso:country":"CH",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11465315: name \"Achere\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11465315"
+        },
+        {
+            "citation":"GeoNames populated place 11465315: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11465315"
+        },
+        {
+            "citation":"GeoNames populated place 11465315: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11465315"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404567867 (Frutigen), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633051,
+        85682381,
+        102062831,
+        102191581,
+        404567867
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11465315
+    },
+    "wof:country":"CH",
+    "wof:geomhash":"37e3d5e183193198fb7d15fad39285d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":102062831,
+            "localadmin_id":404567867,
+            "locality_id":9895013569,
+            "region_id":85682381
+        }
+    ],
+    "wof:id":9895013569,
+    "wof:lastmodified":1795735059,
+    "wof:name":"Achere",
+    "wof:parent_id":404567867,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ch",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.6563,
+    46.56882,
+    7.6563,
+    46.56882
+],
+  "geometry": {"coordinates":[7.6563,46.56882],"type":"Point"}
+}

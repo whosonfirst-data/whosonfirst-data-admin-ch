@@ -1,0 +1,77 @@
+{
+  "id": 9895013513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.53372,47.32919,8.53372,47.32919",
+    "geom:latitude":47.32919,
+    "geom:longitude":8.53372,
+    "gn:population":65,
+    "iso:country":"CH",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 6292655: name \"Moos\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/6292655"
+        },
+        {
+            "citation":"GeoNames populated place 6292655: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/6292655"
+        },
+        {
+            "citation":"GeoNames populated place 6292655: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/6292655"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404570347 (Adliswil), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633051,
+        85682309,
+        102062825,
+        102191581,
+        404570347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6292655
+    },
+    "wof:country":"CH",
+    "wof:geomhash":"f5f3e7b7e59866b79c743b3b590ff19b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":102062825,
+            "localadmin_id":404570347,
+            "locality_id":9895013513,
+            "region_id":85682309
+        }
+    ],
+    "wof:id":9895013513,
+    "wof:lastmodified":1795735059,
+    "wof:name":"Moos",
+    "wof:parent_id":404570347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ch",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.53372,
+    47.32919,
+    8.53372,
+    47.32919
+],
+  "geometry": {"coordinates":[8.53372,47.32919],"type":"Point"}
+}

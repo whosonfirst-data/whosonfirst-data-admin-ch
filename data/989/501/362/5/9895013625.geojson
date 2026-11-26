@@ -1,0 +1,76 @@
+{
+  "id": 9895013625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.13831,47.53079,8.13831,47.53079",
+    "geom:latitude":47.53079,
+    "geom:longitude":8.13831,
+    "iso:country":"CH",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11730882: name \"B\u00fcren\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11730882"
+        },
+        {
+            "citation":"GeoNames populated place 11730882: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11730882"
+        },
+        {
+            "citation":"GeoNames populated place 11730882: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11730882"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404570099 (Gansingen), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633051,
+        85682329,
+        102062977,
+        102191581,
+        404570099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11730882
+    },
+    "wof:country":"CH",
+    "wof:geomhash":"2706ad5a6d36af33dd5d16e5028f3cec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":102062977,
+            "localadmin_id":404570099,
+            "locality_id":9895013625,
+            "region_id":85682329
+        }
+    ],
+    "wof:id":9895013625,
+    "wof:lastmodified":1795735059,
+    "wof:name":"B\u00fcren",
+    "wof:parent_id":404570099,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ch",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.13831,
+    47.53079,
+    8.13831,
+    47.53079
+],
+  "geometry": {"coordinates":[8.13831,47.53079],"type":"Point"}
+}

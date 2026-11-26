@@ -1,0 +1,77 @@
+{
+  "id": 9895013525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.91432,47.38644,8.91432,47.38644",
+    "geom:latitude":47.38644,
+    "geom:longitude":8.91432,
+    "gn:population":7,
+    "iso:country":"CH",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 6294103: name \"Rossweid\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/6294103"
+        },
+        {
+            "citation":"GeoNames populated place 6294103: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/6294103"
+        },
+        {
+            "citation":"GeoNames populated place 6294103: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/6294103"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1394254131 (Bauma), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633051,
+        85682309,
+        102062779,
+        102191581,
+        1394254131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6294103
+    },
+    "wof:country":"CH",
+    "wof:geomhash":"96c058f732350fb5004b0c9c577b84b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":102062779,
+            "localadmin_id":1394254131,
+            "locality_id":9895013525,
+            "region_id":85682309
+        }
+    ],
+    "wof:id":9895013525,
+    "wof:lastmodified":1795735059,
+    "wof:name":"Rossweid",
+    "wof:parent_id":1394254131,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ch",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.91432,
+    47.38644,
+    8.91432,
+    47.38644
+],
+  "geometry": {"coordinates":[8.91432,47.38644],"type":"Point"}
+}

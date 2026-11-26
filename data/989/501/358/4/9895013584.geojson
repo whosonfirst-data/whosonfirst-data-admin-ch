@@ -1,0 +1,76 @@
+{
+  "id": 9895013584,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.71425,46.50443,6.71425,46.50443",
+    "geom:latitude":46.50443,
+    "geom:longitude":6.71425,
+    "iso:country":"CH",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11467396: name \"Jordillon\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11467396"
+        },
+        {
+            "citation":"GeoNames populated place 11467396: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11467396"
+        },
+        {
+            "citation":"GeoNames populated place 11467396: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11467396"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404569837 (Bourg-en-Lavaux), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633051,
+        85682325,
+        102063047,
+        102191581,
+        404569837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11467396
+    },
+    "wof:country":"CH",
+    "wof:geomhash":"4a96f4a72efd70dccc051663e2d34166",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":102063047,
+            "localadmin_id":404569837,
+            "locality_id":9895013584,
+            "region_id":85682325
+        }
+    ],
+    "wof:id":9895013584,
+    "wof:lastmodified":1795735059,
+    "wof:name":"Jordillon",
+    "wof:parent_id":404569837,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ch",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.71425,
+    46.50443,
+    6.71425,
+    46.50443
+],
+  "geometry": {"coordinates":[6.71425,46.50443],"type":"Point"}
+}

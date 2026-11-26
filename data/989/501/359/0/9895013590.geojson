@@ -1,0 +1,76 @@
+{
+  "id": 9895013590,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.22713,46.59207,6.22713,46.59207",
+    "geom:latitude":46.59207,
+    "geom:longitude":6.22713,
+    "iso:country":"CH",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11492878: name \"Le Campe\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11492878"
+        },
+        {
+            "citation":"GeoNames populated place 11492878: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11492878"
+        },
+        {
+            "citation":"GeoNames populated place 11492878: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11492878"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404567801 (Le Chenit), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633051,
+        85682325,
+        102062813,
+        102191581,
+        404567801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11492878
+    },
+    "wof:country":"CH",
+    "wof:geomhash":"b690506ce1bf28ed240d60c49c5afc5d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":102062813,
+            "localadmin_id":404567801,
+            "locality_id":9895013590,
+            "region_id":85682325
+        }
+    ],
+    "wof:id":9895013590,
+    "wof:lastmodified":1795735059,
+    "wof:name":"Le Campe",
+    "wof:parent_id":404567801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ch",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.22713,
+    46.59207,
+    6.22713,
+    46.59207
+],
+  "geometry": {"coordinates":[6.22713,46.59207],"type":"Point"}
+}

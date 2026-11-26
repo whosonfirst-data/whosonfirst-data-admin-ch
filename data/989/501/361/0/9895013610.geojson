@@ -1,0 +1,76 @@
+{
+  "id": 9895013610,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.14167,47.09122,7.14167,47.09122",
+    "geom:latitude":47.09122,
+    "geom:longitude":7.14167,
+    "iso:country":"CH",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11649708: name \"Schernelz\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11649708"
+        },
+        {
+            "citation":"GeoNames populated place 11649708: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11649708"
+        },
+        {
+            "citation":"GeoNames populated place 11649708: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11649708"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404573231 (Ligerz), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633051,
+        85682381,
+        102063041,
+        102191581,
+        404573231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11649708
+    },
+    "wof:country":"CH",
+    "wof:geomhash":"b1f050ec27b29d5192744520c5a66fdc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":102063041,
+            "localadmin_id":404573231,
+            "locality_id":9895013610,
+            "region_id":85682381
+        }
+    ],
+    "wof:id":9895013610,
+    "wof:lastmodified":1795735059,
+    "wof:name":"Schernelz",
+    "wof:parent_id":404573231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ch",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.14167,
+    47.09122,
+    7.14167,
+    47.09122
+],
+  "geometry": {"coordinates":[7.14167,47.09122],"type":"Point"}
+}

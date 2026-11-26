@@ -1,0 +1,77 @@
+{
+  "id": 9895013505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.80382,47.29636,8.80382,47.29636",
+    "geom:latitude":47.29636,
+    "geom:longitude":8.80382,
+    "gn:population":14,
+    "iso:country":"CH",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 6292239: name \"Zil\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/6292239"
+        },
+        {
+            "citation":"GeoNames populated place 6292239: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/6292239"
+        },
+        {
+            "citation":"GeoNames populated place 6292239: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/6292239"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404568687 (Gossau), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633051,
+        85682309,
+        102062967,
+        102191581,
+        404568687
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6292239
+    },
+    "wof:country":"CH",
+    "wof:geomhash":"2aa3bd527674261bebf65c4c8c42a7ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":102062967,
+            "localadmin_id":404568687,
+            "locality_id":9895013505,
+            "region_id":85682309
+        }
+    ],
+    "wof:id":9895013505,
+    "wof:lastmodified":1795735059,
+    "wof:name":"Zil",
+    "wof:parent_id":404568687,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ch",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.80382,
+    47.29636,
+    8.80382,
+    47.29636
+],
+  "geometry": {"coordinates":[8.80382,47.29636],"type":"Point"}
+}

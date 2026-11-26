@@ -1,0 +1,76 @@
+{
+  "id": 9895013636,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.50837,47.46796,9.50837,47.46796",
+    "geom:latitude":47.46796,
+    "geom:longitude":9.50837,
+    "iso:country":"CH",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11763840: name \"Hohriet\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11763840"
+        },
+        {
+            "citation":"GeoNames populated place 11763840: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11763840"
+        },
+        {
+            "citation":"GeoNames populated place 11763840: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11763840"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404570541 (Rorschacherberg), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633051,
+        85682341,
+        102062855,
+        102191581,
+        404570541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11763840
+    },
+    "wof:country":"CH",
+    "wof:geomhash":"647deea8ae73a8b07c19af0ec3728e96",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":102062855,
+            "localadmin_id":404570541,
+            "locality_id":9895013636,
+            "region_id":85682341
+        }
+    ],
+    "wof:id":9895013636,
+    "wof:lastmodified":1795735059,
+    "wof:name":"Hohriet",
+    "wof:parent_id":404570541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ch",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.50837,
+    47.46796,
+    9.50837,
+    47.46796
+],
+  "geometry": {"coordinates":[9.50837,47.46796],"type":"Point"}
+}

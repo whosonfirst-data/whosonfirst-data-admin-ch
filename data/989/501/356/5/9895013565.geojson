@@ -1,0 +1,76 @@
+{
+  "id": 9895013565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.78413,46.48464,8.78413,46.48464",
+    "geom:latitude":46.48464,
+    "geom:longitude":8.78413,
+    "iso:country":"CH",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11219119: name \"Polmengo\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11219119"
+        },
+        {
+            "citation":"GeoNames populated place 11219119: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11219119"
+        },
+        {
+            "citation":"GeoNames populated place 11219119: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11219119"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1394254111 (Faido), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633051,
+        85682269,
+        102062931,
+        102191581,
+        1394254111
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11219119
+    },
+    "wof:country":"CH",
+    "wof:geomhash":"4d4d47a444bb4201defa865fa499fa7d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":102062931,
+            "localadmin_id":1394254111,
+            "locality_id":9895013565,
+            "region_id":85682269
+        }
+    ],
+    "wof:id":9895013565,
+    "wof:lastmodified":1795735059,
+    "wof:name":"Polmengo",
+    "wof:parent_id":1394254111,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ch",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.78413,
+    46.48464,
+    8.78413,
+    46.48464
+],
+  "geometry": {"coordinates":[8.78413,46.48464],"type":"Point"}
+}

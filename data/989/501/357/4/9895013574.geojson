@@ -1,0 +1,76 @@
+{
+  "id": 9895013574,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.55341,46.52391,6.55341,46.52391",
+    "geom:latitude":46.52391,
+    "geom:longitude":6.55341,
+    "iso:country":"CH",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11466532: name \"Renges\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11466532"
+        },
+        {
+            "citation":"GeoNames populated place 11466532: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11466532"
+        },
+        {
+            "citation":"GeoNames populated place 11466532: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11466532"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404570991 (Ecublens), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633051,
+        85682325,
+        102062829,
+        102191581,
+        404570991
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11466532
+    },
+    "wof:country":"CH",
+    "wof:geomhash":"e6a5df785b93e57a0e8d1ca1467a740b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":102062829,
+            "localadmin_id":404570991,
+            "locality_id":9895013574,
+            "region_id":85682325
+        }
+    ],
+    "wof:id":9895013574,
+    "wof:lastmodified":1795735059,
+    "wof:name":"Renges",
+    "wof:parent_id":404570991,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ch",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.55341,
+    46.52391,
+    6.55341,
+    46.52391
+],
+  "geometry": {"coordinates":[6.55341,46.52391],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 9895013495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.54058,47.57159,8.54058,47.57159",
+    "geom:latitude":47.57159,
+    "geom:longitude":8.54058,
+    "iso:country":"CH",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 6291127: name \"Oberriet\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/6291127"
+        },
+        {
+            "citation":"GeoNames populated place 6291127: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/6291127"
+        },
+        {
+            "citation":"GeoNames populated place 6291127: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/6291127"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404569993 (Eglisau), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633051,
+        85682309,
+        102063019,
+        102191581,
+        404569993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6291127
+    },
+    "wof:country":"CH",
+    "wof:geomhash":"25c1ed084e8bc5858f35e0abc7bfe55e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":102063019,
+            "localadmin_id":404569993,
+            "locality_id":9895013495,
+            "region_id":85682309
+        }
+    ],
+    "wof:id":9895013495,
+    "wof:lastmodified":1795735059,
+    "wof:name":"Oberriet",
+    "wof:parent_id":404569993,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ch",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.54058,
+    47.57159,
+    8.54058,
+    47.57159
+],
+  "geometry": {"coordinates":[8.54058,47.57159],"type":"Point"}
+}

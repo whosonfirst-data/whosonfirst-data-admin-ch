@@ -1,0 +1,76 @@
+{
+  "id": 9895013611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.63241,47.07518,8.63241,47.07518",
+    "geom:latitude":47.07518,
+    "geom:longitude":8.63241,
+    "iso:country":"CH",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11650998: name \"Feldmoos\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11650998"
+        },
+        {
+            "citation":"GeoNames populated place 11650998: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11650998"
+        },
+        {
+            "citation":"GeoNames populated place 11650998: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11650998"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404568749 (Sattel), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633051,
+        85682305,
+        102062887,
+        102191581,
+        404568749
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11650998
+    },
+    "wof:country":"CH",
+    "wof:geomhash":"0108ff531b11107708723be2458d2d6f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":102062887,
+            "localadmin_id":404568749,
+            "locality_id":9895013611,
+            "region_id":85682305
+        }
+    ],
+    "wof:id":9895013611,
+    "wof:lastmodified":1795735059,
+    "wof:name":"Feldmoos",
+    "wof:parent_id":404568749,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ch",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.63241,
+    47.07518,
+    8.63241,
+    47.07518
+],
+  "geometry": {"coordinates":[8.63241,47.07518],"type":"Point"}
+}

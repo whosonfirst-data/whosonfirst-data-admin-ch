@@ -1,0 +1,76 @@
+{
+  "id": 9895013617,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.05058,47.14027,8.05058,47.14027",
+    "geom:latitude":47.14027,
+    "geom:longitude":8.05058,
+    "iso:country":"CH",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11685882: name \"Innerdorf\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11685882"
+        },
+        {
+            "citation":"GeoNames populated place 11685882: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11685882"
+        },
+        {
+            "citation":"GeoNames populated place 11685882: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11685882"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404328271 (Grosswangen), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633051,
+        85682319,
+        102191581,
+        404328271,
+        1394137077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11685882
+    },
+    "wof:country":"CH",
+    "wof:geomhash":"7a04ceb2d05814aaf74c3da415061244",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":1394137077,
+            "localadmin_id":404328271,
+            "locality_id":9895013617,
+            "region_id":85682319
+        }
+    ],
+    "wof:id":9895013617,
+    "wof:lastmodified":1795735059,
+    "wof:name":"Innerdorf",
+    "wof:parent_id":404328271,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ch",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.05058,
+    47.14027,
+    8.05058,
+    47.14027
+],
+  "geometry": {"coordinates":[8.05058,47.14027],"type":"Point"}
+}

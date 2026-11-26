@@ -1,0 +1,77 @@
+{
+  "id": 9895013526,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.66254,47.34427,8.66254,47.34427",
+    "geom:latitude":47.34427,
+    "geom:longitude":8.66254,
+    "gn:population":14,
+    "iso:country":"CH",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 6294462: name \"Berg\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/6294462"
+        },
+        {
+            "citation":"GeoNames populated place 6294462: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/6294462"
+        },
+        {
+            "citation":"GeoNames populated place 6294462: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/6294462"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404568719 (Maur), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633051,
+        85682309,
+        102062933,
+        102191581,
+        404568719
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6294462
+    },
+    "wof:country":"CH",
+    "wof:geomhash":"af500f965f39df4889d64ab1bb6fee53",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":102062933,
+            "localadmin_id":404568719,
+            "locality_id":9895013526,
+            "region_id":85682309
+        }
+    ],
+    "wof:id":9895013526,
+    "wof:lastmodified":1795735059,
+    "wof:name":"Berg",
+    "wof:parent_id":404568719,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ch",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.66254,
+    47.34427,
+    8.66254,
+    47.34427
+],
+  "geometry": {"coordinates":[8.66254,47.34427],"type":"Point"}
+}

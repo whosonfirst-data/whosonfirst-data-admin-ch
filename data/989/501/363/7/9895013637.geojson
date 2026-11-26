@@ -1,0 +1,76 @@
+{
+  "id": 9895013637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.37139,47.45075,9.37139,47.45075",
+    "geom:latitude":47.45075,
+    "geom:longitude":9.37139,
+    "iso:country":"CH",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11763881: name \"Gatter\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11763881"
+        },
+        {
+            "citation":"GeoNames populated place 11763881: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11763881"
+        },
+        {
+            "citation":"GeoNames populated place 11763881: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11763881"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1175611227 (Wittenbach), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633051,
+        85682341,
+        102062847,
+        102191581,
+        1175611227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11763881
+    },
+    "wof:country":"CH",
+    "wof:geomhash":"213a057aa73c6a2889e8da28afdfd5cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":102062847,
+            "localadmin_id":1175611227,
+            "locality_id":9895013637,
+            "region_id":85682341
+        }
+    ],
+    "wof:id":9895013637,
+    "wof:lastmodified":1795735059,
+    "wof:name":"Gatter",
+    "wof:parent_id":1175611227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ch",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.37139,
+    47.45075,
+    9.37139,
+    47.45075
+],
+  "geometry": {"coordinates":[9.37139,47.45075],"type":"Point"}
+}

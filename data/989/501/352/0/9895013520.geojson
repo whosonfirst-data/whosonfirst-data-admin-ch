@@ -1,0 +1,77 @@
+{
+  "id": 9895013520,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.73376,47.2719,8.73376,47.2719",
+    "geom:latitude":47.2719,
+    "geom:longitude":8.73376,
+    "gn:population":17,
+    "iso:country":"CH",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 6293591: name \"Eichholz\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/6293591"
+        },
+        {
+            "citation":"GeoNames populated place 6293591: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/6293591"
+        },
+        {
+            "citation":"GeoNames populated place 6293591: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/6293591"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404570887 (Oetwil am See), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633051,
+        85682309,
+        102062769,
+        102191581,
+        404570887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6293591
+    },
+    "wof:country":"CH",
+    "wof:geomhash":"cc85a42858b26fbe3ef29f558e32c76a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":102062769,
+            "localadmin_id":404570887,
+            "locality_id":9895013520,
+            "region_id":85682309
+        }
+    ],
+    "wof:id":9895013520,
+    "wof:lastmodified":1795735059,
+    "wof:name":"Eichholz",
+    "wof:parent_id":404570887,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ch",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.73376,
+    47.2719,
+    8.73376,
+    47.2719
+],
+  "geometry": {"coordinates":[8.73376,47.2719],"type":"Point"}
+}

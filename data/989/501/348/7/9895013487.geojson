@@ -1,0 +1,76 @@
+{
+  "id": 9895013487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.85,46.66667,8.85,46.66667",
+    "geom:latitude":46.66667,
+    "geom:longitude":8.85,
+    "iso:country":"CH",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 2659711: name \"Medels\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/2659711"
+        },
+        {
+            "citation":"GeoNames populated place 2659711: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/2659711"
+        },
+        {
+            "citation":"GeoNames populated place 2659711: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/2659711"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404567753 (Medel), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633051,
+        85682255,
+        102062773,
+        102191581,
+        404567753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2659711
+    },
+    "wof:country":"CH",
+    "wof:geomhash":"b1b7f75b9808f9f6a9d6a9b3c2329df2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":102062773,
+            "localadmin_id":404567753,
+            "locality_id":9895013487,
+            "region_id":85682255
+        }
+    ],
+    "wof:id":9895013487,
+    "wof:lastmodified":1795735059,
+    "wof:name":"Medels",
+    "wof:parent_id":404567753,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ch",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.85,
+    46.66667,
+    8.85,
+    46.66667
+],
+  "geometry": {"coordinates":[8.85,46.66667],"type":"Point"}
+}

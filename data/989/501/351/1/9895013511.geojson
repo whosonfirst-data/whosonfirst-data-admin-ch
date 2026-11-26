@@ -1,0 +1,77 @@
+{
+  "id": 9895013511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.82097,47.3371,8.82097,47.3371",
+    "geom:latitude":47.3371,
+    "geom:longitude":8.82097,
+    "gn:population":26,
+    "iso:country":"CH",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 6292595: name \"Burg\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/6292595"
+        },
+        {
+            "citation":"GeoNames populated place 6292595: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/6292595"
+        },
+        {
+            "citation":"GeoNames populated place 6292595: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/6292595"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404568793 (Wetzikon), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633051,
+        85682309,
+        102062967,
+        102191581,
+        404568793
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6292595
+    },
+    "wof:country":"CH",
+    "wof:geomhash":"0421e3c145df772e2fe553a7962e719e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":102062967,
+            "localadmin_id":404568793,
+            "locality_id":9895013511,
+            "region_id":85682309
+        }
+    ],
+    "wof:id":9895013511,
+    "wof:lastmodified":1795735059,
+    "wof:name":"Burg",
+    "wof:parent_id":404568793,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ch",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.82097,
+    47.3371,
+    8.82097,
+    47.3371
+],
+  "geometry": {"coordinates":[8.82097,47.3371],"type":"Point"}
+}

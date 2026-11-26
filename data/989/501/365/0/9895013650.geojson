@@ -1,0 +1,76 @@
+{
+  "id": 9895013650,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.95689,47.3565,7.95689,47.3565",
+    "geom:latitude":47.3565,
+    "geom:longitude":7.95689,
+    "iso:country":"CH",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11773928: name \"Sandacker\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11773928"
+        },
+        {
+            "citation":"GeoNames populated place 11773928: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11773928"
+        },
+        {
+            "citation":"GeoNames populated place 11773928: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11773928"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404328777 (Oberg\u00f6sgen), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633051,
+        85682365,
+        102191581,
+        404328777,
+        1394137093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11773928
+    },
+    "wof:country":"CH",
+    "wof:geomhash":"ecde68e63d63d2287fa45c22783def74",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":1394137093,
+            "localadmin_id":404328777,
+            "locality_id":9895013650,
+            "region_id":85682365
+        }
+    ],
+    "wof:id":9895013650,
+    "wof:lastmodified":1795735059,
+    "wof:name":"Sandacker",
+    "wof:parent_id":404328777,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ch",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.95689,
+    47.3565,
+    7.95689,
+    47.3565
+],
+  "geometry": {"coordinates":[7.95689,47.3565],"type":"Point"}
+}

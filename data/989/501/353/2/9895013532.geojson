@@ -1,0 +1,76 @@
+{
+  "id": 9895013532,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.28164,47.09316,9.28164,47.09316",
+    "geom:latitude":47.09316,
+    "geom:longitude":9.28164,
+    "iso:country":"CH",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 8505024: name \"Flumserberg Tannenbodenalp\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/8505024"
+        },
+        {
+            "citation":"GeoNames populated place 8505024: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/8505024"
+        },
+        {
+            "citation":"GeoNames populated place 8505024: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/8505024"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404567859 (Quarten), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633051,
+        85682341,
+        102062963,
+        102191581,
+        404567859
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8505024
+    },
+    "wof:country":"CH",
+    "wof:geomhash":"50d707de897de1360ec62e3e8ee4e9e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":102062963,
+            "localadmin_id":404567859,
+            "locality_id":9895013532,
+            "region_id":85682341
+        }
+    ],
+    "wof:id":9895013532,
+    "wof:lastmodified":1795735059,
+    "wof:name":"Flumserberg Tannenbodenalp",
+    "wof:parent_id":404567859,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ch",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.28164,
+    47.09316,
+    9.28164,
+    47.09316
+],
+  "geometry": {"coordinates":[9.28164,47.09316],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 9895013535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.80859,47.01938,8.80859,47.01938",
+    "geom:latitude":47.01938,
+    "geom:longitude":8.80859,
+    "iso:country":"CH",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11003003: name \"Hoch-Ybrig\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11003003"
+        },
+        {
+            "citation":"GeoNames populated place 11003003: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11003003"
+        },
+        {
+            "citation":"GeoNames populated place 11003003: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11003003"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404568049 (Unteriberg), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633051,
+        85682305,
+        102062887,
+        102191581,
+        404568049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11003003
+    },
+    "wof:country":"CH",
+    "wof:geomhash":"b2a46b65320abcbd0c21564d233e553b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":102062887,
+            "localadmin_id":404568049,
+            "locality_id":9895013535,
+            "region_id":85682305
+        }
+    ],
+    "wof:id":9895013535,
+    "wof:lastmodified":1795735059,
+    "wof:name":"Hoch-Ybrig",
+    "wof:parent_id":404568049,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ch",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.80859,
+    47.01938,
+    8.80859,
+    47.01938
+],
+  "geometry": {"coordinates":[8.80859,47.01938],"type":"Point"}
+}

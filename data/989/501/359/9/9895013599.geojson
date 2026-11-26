@@ -1,0 +1,76 @@
+{
+  "id": 9895013599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.21755,47.39012,9.21755,47.39012",
+    "geom:latitude":47.39012,
+    "geom:longitude":9.21755,
+    "iso:country":"CH",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11584408: name \"Oberegg\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11584408"
+        },
+        {
+            "citation":"GeoNames populated place 11584408: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11584408"
+        },
+        {
+            "citation":"GeoNames populated place 11584408: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11584408"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404569453 (Flawil), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633051,
+        85682341,
+        102062947,
+        102191581,
+        404569453
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11584408
+    },
+    "wof:country":"CH",
+    "wof:geomhash":"279439fd6ada0026d7ff098b56728006",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":102062947,
+            "localadmin_id":404569453,
+            "locality_id":9895013599,
+            "region_id":85682341
+        }
+    ],
+    "wof:id":9895013599,
+    "wof:lastmodified":1795735059,
+    "wof:name":"Oberegg",
+    "wof:parent_id":404569453,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ch",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.21755,
+    47.39012,
+    9.21755,
+    47.39012
+],
+  "geometry": {"coordinates":[9.21755,47.39012],"type":"Point"}
+}

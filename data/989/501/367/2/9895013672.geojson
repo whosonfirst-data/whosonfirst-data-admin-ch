@@ -1,0 +1,77 @@
+{
+  "id": 9895013672,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.44743,46.26788,7.44743,46.26788",
+    "geom:latitude":46.26788,
+    "geom:longitude":7.44743,
+    "gn:population":413,
+    "iso:country":"CH",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12237754: name \"Chelin\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12237754"
+        },
+        {
+            "citation":"GeoNames populated place 12237754: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12237754"
+        },
+        {
+            "citation":"GeoNames populated place 12237754: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12237754"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404569029 (Lens), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633051,
+        85682281,
+        102062793,
+        102191581,
+        404569029
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12237754
+    },
+    "wof:country":"CH",
+    "wof:geomhash":"25b53faaa09ebcba161803d7a362d9f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":102062793,
+            "localadmin_id":404569029,
+            "locality_id":9895013672,
+            "region_id":85682281
+        }
+    ],
+    "wof:id":9895013672,
+    "wof:lastmodified":1795735059,
+    "wof:name":"Chelin",
+    "wof:parent_id":404569029,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ch",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.44743,
+    46.26788,
+    7.44743,
+    46.26788
+],
+  "geometry": {"coordinates":[7.44743,46.26788],"type":"Point"}
+}

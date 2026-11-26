@@ -1,0 +1,76 @@
+{
+  "id": 9895013563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.05743,46.10052,7.05743,46.10052",
+    "geom:latitude":46.10052,
+    "geom:longitude":7.05743,
+    "iso:country":"CH",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11218428: name \"Le Sommet des Vignes\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11218428"
+        },
+        {
+            "citation":"GeoNames populated place 11218428: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11218428"
+        },
+        {
+            "citation":"GeoNames populated place 11218428: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11218428"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404568155 (Martigny-Combe), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633051,
+        85682281,
+        102063045,
+        102191581,
+        404568155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11218428
+    },
+    "wof:country":"CH",
+    "wof:geomhash":"bee84397c16985f2725f77bfaa08efc2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":102063045,
+            "localadmin_id":404568155,
+            "locality_id":9895013563,
+            "region_id":85682281
+        }
+    ],
+    "wof:id":9895013563,
+    "wof:lastmodified":1795735059,
+    "wof:name":"Le Sommet des Vignes",
+    "wof:parent_id":404568155,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ch",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.05743,
+    46.10052,
+    7.05743,
+    46.10052
+],
+  "geometry": {"coordinates":[7.05743,46.10052],"type":"Point"}
+}

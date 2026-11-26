@@ -1,0 +1,77 @@
+{
+  "id": 9895013493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.50023,47.30087,8.50023,47.30087",
+    "geom:latitude":47.30087,
+    "geom:longitude":8.50023,
+    "gn:population":7,
+    "iso:country":"CH",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 6290636: name \"Tobel\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/6290636"
+        },
+        {
+            "citation":"GeoNames populated place 6290636: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/6290636"
+        },
+        {
+            "citation":"GeoNames populated place 6290636: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/6290636"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404569273 (Stallikon), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633051,
+        85682309,
+        102062775,
+        102191581,
+        404569273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6290636
+    },
+    "wof:country":"CH",
+    "wof:geomhash":"a55dc1e16bbf69707d945820f6fb4596",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":102062775,
+            "localadmin_id":404569273,
+            "locality_id":9895013493,
+            "region_id":85682309
+        }
+    ],
+    "wof:id":9895013493,
+    "wof:lastmodified":1795735059,
+    "wof:name":"Tobel",
+    "wof:parent_id":404569273,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ch",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.50023,
+    47.30087,
+    8.50023,
+    47.30087
+],
+  "geometry": {"coordinates":[8.50023,47.30087],"type":"Point"}
+}

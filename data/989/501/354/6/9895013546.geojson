@@ -1,0 +1,76 @@
+{
+  "id": 9895013546,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.18799,46.38591,6.18799,46.38591",
+    "geom:latitude":46.38591,
+    "geom:longitude":6.18799,
+    "iso:country":"CH",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11215765: name \"Les Tourniaux\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11215765"
+        },
+        {
+            "citation":"GeoNames populated place 11215765: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11215765"
+        },
+        {
+            "citation":"GeoNames populated place 11215765: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11215765"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404573163 (Borex), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633051,
+        85682325,
+        102063049,
+        102191581,
+        404573163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11215765
+    },
+    "wof:country":"CH",
+    "wof:geomhash":"08b1f326ed4f8757c69b18bfc0ff48da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":102063049,
+            "localadmin_id":404573163,
+            "locality_id":9895013546,
+            "region_id":85682325
+        }
+    ],
+    "wof:id":9895013546,
+    "wof:lastmodified":1795735059,
+    "wof:name":"Les Tourniaux",
+    "wof:parent_id":404573163,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ch",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.18799,
+    46.38591,
+    6.18799,
+    46.38591
+],
+  "geometry": {"coordinates":[6.18799,46.38591],"type":"Point"}
+}

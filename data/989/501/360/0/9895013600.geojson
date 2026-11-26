@@ -1,0 +1,76 @@
+{
+  "id": 9895013600,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.2901,47.38284,9.2901,47.38284",
+    "geom:latitude":47.38284,
+    "geom:longitude":9.2901,
+    "iso:country":"CH",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11584472: name \"Berg\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11584472"
+        },
+        {
+            "citation":"GeoNames populated place 11584472: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11584472"
+        },
+        {
+            "citation":"GeoNames populated place 11584472: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11584472"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404328233 (Herisau), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633051,
+        85682353,
+        102191581,
+        404328233,
+        1394137085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11584472
+    },
+    "wof:country":"CH",
+    "wof:geomhash":"74e7f78af3b613f07b2cf0fd0f55c20d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":1394137085,
+            "localadmin_id":404328233,
+            "locality_id":9895013600,
+            "region_id":85682353
+        }
+    ],
+    "wof:id":9895013600,
+    "wof:lastmodified":1795735059,
+    "wof:name":"Berg",
+    "wof:parent_id":404328233,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ch",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.2901,
+    47.38284,
+    9.2901,
+    47.38284
+],
+  "geometry": {"coordinates":[9.2901,47.38284],"type":"Point"}
+}

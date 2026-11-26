@@ -1,0 +1,76 @@
+{
+  "id": 9895013624,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.35991,47.55011,9.35991,47.55011",
+    "geom:latitude":47.55011,
+    "geom:longitude":9.35991,
+    "iso:country":"CH",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11726392: name \"Hungerb\u00fchl\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11726392"
+        },
+        {
+            "citation":"GeoNames populated place 11726392: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11726392"
+        },
+        {
+            "citation":"GeoNames populated place 11726392: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11726392"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404572249 (Salmsach), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633051,
+        85682337,
+        102062959,
+        102191581,
+        404572249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11726392
+    },
+    "wof:country":"CH",
+    "wof:geomhash":"93bdee128249e70febeab2733bbb63e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":102062959,
+            "localadmin_id":404572249,
+            "locality_id":9895013624,
+            "region_id":85682337
+        }
+    ],
+    "wof:id":9895013624,
+    "wof:lastmodified":1795735059,
+    "wof:name":"Hungerb\u00fchl",
+    "wof:parent_id":404572249,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ch",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.35991,
+    47.55011,
+    9.35991,
+    47.55011
+],
+  "geometry": {"coordinates":[9.35991,47.55011],"type":"Point"}
+}

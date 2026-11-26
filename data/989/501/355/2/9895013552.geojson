@@ -1,0 +1,76 @@
+{
+  "id": 9895013552,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.34425,46.23856,7.34425,46.23856",
+    "geom:latitude":46.23856,
+    "geom:longitude":7.34425,
+    "iso:country":"CH",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11217183: name \"Diolly\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11217183"
+        },
+        {
+            "citation":"GeoNames populated place 11217183: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11217183"
+        },
+        {
+            "citation":"GeoNames populated place 11217183: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11217183"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404567871 (Savi\u00e8se), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633051,
+        85682281,
+        102062827,
+        102191581,
+        404567871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11217183
+    },
+    "wof:country":"CH",
+    "wof:geomhash":"af89a335d73676b89829dd7f0245df28",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":102062827,
+            "localadmin_id":404567871,
+            "locality_id":9895013552,
+            "region_id":85682281
+        }
+    ],
+    "wof:id":9895013552,
+    "wof:lastmodified":1795735059,
+    "wof:name":"Diolly",
+    "wof:parent_id":404567871,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ch",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.34425,
+    46.23856,
+    7.34425,
+    46.23856
+],
+  "geometry": {"coordinates":[7.34425,46.23856],"type":"Point"}
+}

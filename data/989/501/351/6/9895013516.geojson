@@ -1,0 +1,77 @@
+{
+  "id": 9895013516,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.67316,47.2002,8.67316,47.2002",
+    "geom:latitude":47.2002,
+    "geom:longitude":8.67316,
+    "gn:population":9,
+    "iso:country":"CH",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 6292941: name \"Moos\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/6292941"
+        },
+        {
+            "citation":"GeoNames populated place 6292941: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/6292941"
+        },
+        {
+            "citation":"GeoNames populated place 6292941: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/6292941"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404569159 (Richterswil), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633051,
+        85682309,
+        102191581,
+        404569159,
+        1394212863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6292941
+    },
+    "wof:country":"CH",
+    "wof:geomhash":"4e66b3cc879af162379530df101853b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":1394212863,
+            "localadmin_id":404569159,
+            "locality_id":9895013516,
+            "region_id":85682309
+        }
+    ],
+    "wof:id":9895013516,
+    "wof:lastmodified":1795735059,
+    "wof:name":"Moos",
+    "wof:parent_id":404569159,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ch",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.67316,
+    47.2002,
+    8.67316,
+    47.2002
+],
+  "geometry": {"coordinates":[8.67316,47.2002],"type":"Point"}
+}

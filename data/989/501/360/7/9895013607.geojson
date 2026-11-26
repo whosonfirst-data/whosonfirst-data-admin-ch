@@ -1,0 +1,76 @@
+{
+  "id": 9895013607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.31746,47.56572,9.31746,47.56572",
+    "geom:latitude":47.56572,
+    "geom:longitude":9.31746,
+    "iso:country":"CH",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11604294: name \"Br\u00fcschwil\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11604294"
+        },
+        {
+            "citation":"GeoNames populated place 11604294: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11604294"
+        },
+        {
+            "citation":"GeoNames populated place 11604294: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11604294"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404570891 (Hefenhofen), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633051,
+        85682337,
+        102062959,
+        102191581,
+        404570891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11604294
+    },
+    "wof:country":"CH",
+    "wof:geomhash":"b747832379bbe11ad760a1024751b175",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":102062959,
+            "localadmin_id":404570891,
+            "locality_id":9895013607,
+            "region_id":85682337
+        }
+    ],
+    "wof:id":9895013607,
+    "wof:lastmodified":1795735059,
+    "wof:name":"Br\u00fcschwil",
+    "wof:parent_id":404570891,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ch",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.31746,
+    47.56572,
+    9.31746,
+    47.56572
+],
+  "geometry": {"coordinates":[9.31746,47.56572],"type":"Point"}
+}

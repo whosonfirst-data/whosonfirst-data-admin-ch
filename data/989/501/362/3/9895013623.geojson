@@ -1,0 +1,76 @@
+{
+  "id": 9895013623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.34744,46.95754,8.34744,46.95754",
+    "geom:latitude":46.95754,
+    "geom:longitude":8.34744,
+    "iso:country":"CH",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11719265: name \"Gotthardli\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11719265"
+        },
+        {
+            "citation":"GeoNames populated place 11719265: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11719265"
+        },
+        {
+            "citation":"GeoNames populated place 11719265: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11719265"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404328343 (Ennetmoos), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633051,
+        85682315,
+        102062973,
+        102191581,
+        404328343
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11719265
+    },
+    "wof:country":"CH",
+    "wof:geomhash":"2f2c7a74fe2b3da2b635d83e108d97ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":102062973,
+            "localadmin_id":404328343,
+            "locality_id":9895013623,
+            "region_id":85682315
+        }
+    ],
+    "wof:id":9895013623,
+    "wof:lastmodified":1795735059,
+    "wof:name":"Gotthardli",
+    "wof:parent_id":404328343,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ch",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.34744,
+    46.95754,
+    8.34744,
+    46.95754
+],
+  "geometry": {"coordinates":[8.34744,46.95754],"type":"Point"}
+}

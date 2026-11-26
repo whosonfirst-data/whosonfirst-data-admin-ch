@@ -1,0 +1,76 @@
+{
+  "id": 9895013542,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.89843,45.93305,8.89843,45.93305",
+    "geom:latitude":45.93305,
+    "geom:longitude":8.89843,
+    "iso:country":"CH",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11113996: name \"Bur\u00f2\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11113996"
+        },
+        {
+            "citation":"GeoNames populated place 11113996: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11113996"
+        },
+        {
+            "citation":"GeoNames populated place 11113996: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11113996"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404572225 (Morcote), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633051,
+        85682269,
+        102062767,
+        102191581,
+        404572225
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11113996
+    },
+    "wof:country":"CH",
+    "wof:geomhash":"113e96be36d1ae152fcfe94bd630e7a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":102062767,
+            "localadmin_id":404572225,
+            "locality_id":9895013542,
+            "region_id":85682269
+        }
+    ],
+    "wof:id":9895013542,
+    "wof:lastmodified":1795735059,
+    "wof:name":"Bur\u00f2",
+    "wof:parent_id":404572225,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ch",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.89843,
+    45.93305,
+    8.89843,
+    45.93305
+],
+  "geometry": {"coordinates":[8.89843,45.93305],"type":"Point"}
+}

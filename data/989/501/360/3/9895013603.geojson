@@ -1,0 +1,76 @@
+{
+  "id": 9895013603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.06343,47.19285,9.06343,47.19285",
+    "geom:latitude":47.19285,
+    "geom:longitude":9.06343,
+    "iso:country":"CH",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11599630: name \"Solenberg\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11599630"
+        },
+        {
+            "citation":"GeoNames populated place 11599630: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11599630"
+        },
+        {
+            "citation":"GeoNames populated place 11599630: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11599630"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404568123 (Sch\u00e4nis), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633051,
+        85682341,
+        102062815,
+        102191581,
+        404568123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11599630
+    },
+    "wof:country":"CH",
+    "wof:geomhash":"5ca61e6c13fb89e631415a35cb6d14b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":102062815,
+            "localadmin_id":404568123,
+            "locality_id":9895013603,
+            "region_id":85682341
+        }
+    ],
+    "wof:id":9895013603,
+    "wof:lastmodified":1795735059,
+    "wof:name":"Solenberg",
+    "wof:parent_id":404568123,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ch",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.06343,
+    47.19285,
+    9.06343,
+    47.19285
+],
+  "geometry": {"coordinates":[9.06343,47.19285],"type":"Point"}
+}

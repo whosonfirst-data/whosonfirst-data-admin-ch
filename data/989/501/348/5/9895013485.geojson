@@ -1,0 +1,77 @@
+{
+  "id": 9895013485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.80029,46.31196,7.80029,46.31196",
+    "geom:latitude":46.31196,
+    "geom:longitude":7.80029,
+    "gn:population":1944,
+    "iso:country":"CH",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 2659098: name \"Raron\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/2659098"
+        },
+        {
+            "citation":"GeoNames populated place 2659098: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/2659098"
+        },
+        {
+            "citation":"GeoNames populated place 2659098: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/2659098"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404568275 (Raron), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633051,
+        85682281,
+        102063037,
+        102191581,
+        404568275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2659098
+    },
+    "wof:country":"CH",
+    "wof:geomhash":"0c3da451783bfa9731c581ec569e5634",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":102063037,
+            "localadmin_id":404568275,
+            "locality_id":9895013485,
+            "region_id":85682281
+        }
+    ],
+    "wof:id":9895013485,
+    "wof:lastmodified":1795735059,
+    "wof:name":"Raron",
+    "wof:parent_id":404568275,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ch",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.80029,
+    46.31196,
+    7.80029,
+    46.31196
+],
+  "geometry": {"coordinates":[7.80029,46.31196],"type":"Point"}
+}

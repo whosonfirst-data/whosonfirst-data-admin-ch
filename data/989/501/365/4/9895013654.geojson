@@ -1,0 +1,76 @@
+{
+  "id": 9895013654,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.85146,47.34476,7.85146,47.34476",
+    "geom:latitude":47.34476,
+    "geom:longitude":7.85146,
+    "iso:country":"CH",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11774895: name \"Steckenberg\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11774895"
+        },
+        {
+            "citation":"GeoNames populated place 11774895: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11774895"
+        },
+        {
+            "citation":"GeoNames populated place 11774895: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11774895"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404328829 (Rickenbach), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633051,
+        85682365,
+        102191581,
+        404328829,
+        1394137091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11774895
+    },
+    "wof:country":"CH",
+    "wof:geomhash":"fba37d037e0750faa89328402a796179",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":1394137091,
+            "localadmin_id":404328829,
+            "locality_id":9895013654,
+            "region_id":85682365
+        }
+    ],
+    "wof:id":9895013654,
+    "wof:lastmodified":1795735059,
+    "wof:name":"Steckenberg",
+    "wof:parent_id":404328829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ch",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.85146,
+    47.34476,
+    7.85146,
+    47.34476
+],
+  "geometry": {"coordinates":[7.85146,47.34476],"type":"Point"}
+}

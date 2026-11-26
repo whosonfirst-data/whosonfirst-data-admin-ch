@@ -1,0 +1,76 @@
+{
+  "id": 9895013578,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.12214,46.45232,6.12214,46.45232",
+    "geom:latitude":46.45232,
+    "geom:longitude":6.12214,
+    "iso:country":"CH",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11466794: name \"Les Pralies\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11466794"
+        },
+        {
+            "citation":"GeoNames populated place 11466794: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11466794"
+        },
+        {
+            "citation":"GeoNames populated place 11466794: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11466794"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 404568419 (Saint-Cergue), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633051,
+        85682325,
+        102063049,
+        102191581,
+        404568419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11466794
+    },
+    "wof:country":"CH",
+    "wof:geomhash":"17e92b48b2ccc3b59f802d5e310e06c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":102063049,
+            "localadmin_id":404568419,
+            "locality_id":9895013578,
+            "region_id":85682325
+        }
+    ],
+    "wof:id":9895013578,
+    "wof:lastmodified":1795735059,
+    "wof:name":"Les Pralies",
+    "wof:parent_id":404568419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ch",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.12214,
+    46.45232,
+    6.12214,
+    46.45232
+],
+  "geometry": {"coordinates":[6.12214,46.45232],"type":"Point"}
+}
